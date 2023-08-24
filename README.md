@@ -53,7 +53,10 @@ To run the app on your local machine:
 - Set your working directory in R to the folder containing the app files.
 - Run the app using the command: shiny::runApp()
 
+##  References
 
+ - Hollander, M., Wolfe, D. A., & Chicken, E. (2013). *Nonparametric statistical methods*. John Wiley & Sons.
+  - Gibbons, J. D., & Chakraborti, S. (2011). *Nonparametric statistical inference*. CRC Press.
 
 
 
